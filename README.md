@@ -1,6 +1,6 @@
 Project Title : CSEKU_SDP_2019_Khulna_University_2041_3D_Design
 
-Software Used: Blender Blender OSM Unreal engine
+Software Used: Blender, Blender OSM ,Unreal engine
 
 Developed By: Dabashis Kundu Shanto (170209) Humaira Islam (170215) Anika Asfi (170224) Mostaq Ahmed Polok(170232)
 
